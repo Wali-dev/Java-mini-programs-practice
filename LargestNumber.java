@@ -10,7 +10,6 @@ public class LargestNumber{
         int num2 = input.nextInt();
         int num3 = input.nextInt();
 
-
         if(num1>num2){
 
             if (num1>num3) {
